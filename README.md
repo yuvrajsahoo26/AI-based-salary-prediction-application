@@ -59,3 +59,6 @@ It uses demographic and work-related features like age, gender, education, worki
   -  Qualification: B.Tech in Computer Science and Engineering (CSE), BPUT University
   -  Year: 3rd Year (5th Semester)
   -  Skills & Interests: Artificial Intelligence, Machine Learning, Data Science, Web Development
+
+  -  ## OUTPUT:-
+  -  <img width="784" height="975" alt="Image" src="https://github.com/user-attachments/assets/7808bc71-baf9-4813-bd9b-2c73ba2abc64" />
